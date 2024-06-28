@@ -1,0 +1,13 @@
+{
+	"acme": {
+		"accounting": {
+			"payroll": {},
+			"taxes": {},
+			"forecasting": {}
+		},
+		"technology": {
+			"development": {},
+			"support": {}
+		}
+	}
+}
